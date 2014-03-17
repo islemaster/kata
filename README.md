@@ -1,0 +1,4 @@
+kata
+====
+
+My public scratchpad
